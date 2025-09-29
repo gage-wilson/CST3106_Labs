@@ -1,0 +1,53 @@
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    }
+
+h2 {
+     color: black;
+    text-align: center;
+    font-size: 30px;
+    }
+
+.section_title {
+    color: black;
+    text-align: left;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.subsection_name {
+    color: black;
+    text-align: left;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.other_name, .date, .location {
+    color: black;
+    text-align: left;
+    font-size: 20px;
+}
+
+.section_position {
+    text-align: left;
+    font-size: 20px;
+    margin-top : 60px;
+}
+
+.text_position {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.information {
+    color: black;
+    text-align: left;
+    font-size: 20px;
+}
+
+        
